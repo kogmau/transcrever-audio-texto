@@ -1,0 +1,2 @@
+dist/whisper_transcriber.exe filter=lfs diff=lfs merge=lfs -text
+build/whisper_transcriber/whisper_transcriber.pkg filter=lfs diff=lfs merge=lfs -text
